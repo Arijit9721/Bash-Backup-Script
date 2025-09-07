@@ -39,7 +39,7 @@ Before using the script, complete these setup steps:
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository_url>
+git clone https://github.com/Arijit9721/Bash-Backup-Script.git
 ```
 
 ### 2. Install Dependencies
